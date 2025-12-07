@@ -130,11 +130,7 @@ pip install pandas numpy matplotlib
 - **Visualisations interactives** (Plotly) — selon contraintes d’environnement
 - **Sourcing externe**: météo, jours fériés, événements, pour enrichir l’analyse
 
-## 📤 Publication & rendu
 
-- Pousser `scripts.ipynb`, `README.md` et les exports CSV/figures dans un **repo GitHub/GitLab**
-- Envoyer le lien du repo à **bot+jobs@tictactrip.eu**
-  - **Objet de l’email**: `DATA@NOM PRENOM`
 
 ## 📜 Licence
 
